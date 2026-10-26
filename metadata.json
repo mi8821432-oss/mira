@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis / Myra (مایرا) - Boss AI Voice Assistant",
+  "description": "Speak Naturally. Feel Understood. Jarvis / Myra is an ultra-fast, human-like voice-to-voice Boss AI assistant with wake-word detection, continuous turn-taking, WhatsApp integration, Urdu/Hindi/English conversation, and offline mode.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
